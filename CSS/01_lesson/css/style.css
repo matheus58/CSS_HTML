@@ -1,0 +1,12 @@
+body{
+    font-size: 22px;
+}
+p{
+    font-size: 23px;
+    color: purple;
+    border: 3px solid black;
+}
+.gray{
+    color: gray;
+}
+
